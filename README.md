@@ -6,12 +6,10 @@
 ### 1EdTech Dashboard へのアクセス
 YouTubeを参照してください。
 
-はじめてのログインからメンバーログイン手順
-
+はじめてのログインからメンバーログイン手順  
 https://youtu.be/TU05IHd8-VM
 
-LTI起動時にOops!が表示された場合の対処手順
-
+LTI起動時にOops!が表示された場合の対処手順  
 https://youtu.be/kMp3A2Xs8HA
 
 ### Q&Aガイド
