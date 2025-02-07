@@ -5,6 +5,7 @@
 ## 利用の手引き
 ### 1EdTech Dashboard へのアクセス
 YouTubeを参照してください。
-
+[はじめてのログインからメンバーログイン手順]https://youtu.be/TU05IHd8-VM
+[LTI起動時にOops!が表示された場合の対処手順]https://youtu.be/kMp3A2Xs8HA
 ### Q&Aガイド
 プロジェクト毎に設置したSlackを利用します。
